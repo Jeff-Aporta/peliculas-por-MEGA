@@ -1,5 +1,4 @@
-
-                    <h1>#</h1>
+<h1>#</h1>
 <h3>
                                         <a href="http://q.gs/FRUNR" target="_blank">
                                              #RealityHigh
